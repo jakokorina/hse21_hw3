@@ -8,7 +8,6 @@
 <p float="left">
   <img src="/pictures/fastqc_sequence_counts_plot.png " width="400" />
   <img src="/pictures/fastqc_per_base_sequence_quality_plot.png" width="400" />
-  <img src="/pictures/fastqc_per_sequence_gc_content_plot.png" width="400" /> 
   <img src="/pictures/fastqc_per_sequence_quality_scores_plot.png" width="400" />
   <img src="/pictures/fastqc_sequence_duplication_levels_plot.png" width="400" />
 </p>
