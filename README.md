@@ -35,6 +35,7 @@
 </p>
  
  ### Часть 2
+ Ссылка на 2 google colab: https://colab.research.google.com/drive/15i0WFX6j_YpOnnqYR5cP32Hf5CLBQCQ-?usp=sharing
  
  plotMA
  <img src="/pictures/plotma.png " width="400" />
@@ -42,5 +43,10 @@
  heat map
  <img src="/pictures/heatmap.png " width="400" />
  
- 
- Ссылка на 2 google colab: https://colab.research.google.com/drive/15i0WFX6j_YpOnnqYR5cP32Hf5CLBQCQ-?usp=sharing
+ Normalized counts в контрольных и перепрограммированных образцах
+<p float="left">
+  <img src="/pictures/res1.png " width="400" />
+  <img src="/pictures/res2.png" width="400" />
+  <img src="/pictures/res3.png " width="400" />
+  <img src="/pictures/res4.png" width="400" />
+</p> 
