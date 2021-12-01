@@ -18,7 +18,7 @@
   <img src="/pictures/hisat2.png" width="400" />
 </p>
 
-Считаем уникальные чтения:
+Считаем уникальные риды:
 <p float="left">
   <img src="/pictures/grep_unique.png " width="400" />
 </p>
@@ -29,9 +29,18 @@
   <img src="/pictures/grep_p2.png" width="400" />
 </p>
  
- Количество чтений, попавших в ген:
+ Количество ридов, попавших в ген:
  <p float="left">
   <img src="/pictures/final_stat.png " width="400" />
 </p>
+ 
+ ### Часть 2
+ 
+ plotMA
+ <img src="/pictures/plotma.png " width="400" />
+ 
+ heat map
+ <img src="/pictures/heatmap.png " width="400" />
+ 
  
  Ссылка на 2 google colab: https://colab.research.google.com/drive/15i0WFX6j_YpOnnqYR5cP32Hf5CLBQCQ-?usp=sharing
