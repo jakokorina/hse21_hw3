@@ -12,5 +12,11 @@
   <img src="/pictures/fastqc_sequence_duplication_levels_plot.png" width="400" />
 </p>
 
+Делаем HISAT:
+<p float="left">
+  <img src="/pictures/hisat1.png " width="400" />
+  <img src="/pictures/hisat2.png" width="400" />
+</p>
+
  
  Ссылка на 2 google colab: https://colab.research.google.com/drive/15i0WFX6j_YpOnnqYR5cP32Hf5CLBQCQ-?usp=sharing
