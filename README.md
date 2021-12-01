@@ -29,4 +29,9 @@
   <img src="/pictures/grep_p2.png" width="400" />
 </p>
  
+ Количество чтений, попавших в ген:
+ <p float="left">
+  <img src="/pictures/final_stat.png " width="400" />
+</p>
+ 
  Ссылка на 2 google colab: https://colab.research.google.com/drive/15i0WFX6j_YpOnnqYR5cP32Hf5CLBQCQ-?usp=sharing
