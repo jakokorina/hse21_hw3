@@ -18,5 +18,9 @@
   <img src="/pictures/hisat2.png" width="400" />
 </p>
 
+Считаем уникальные чтения:
+<p float="left">
+  <img src="/pictures/grep_unique.png " width="400" />
+</p>
  
  Ссылка на 2 google colab: https://colab.research.google.com/drive/15i0WFX6j_YpOnnqYR5cP32Hf5CLBQCQ-?usp=sharing
