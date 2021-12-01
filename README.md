@@ -25,8 +25,8 @@
 
 Статистика после HTSEQ:
 <p float="left">
-  <img src="/pictures/grep1.png " width="400" />
-  <img src="/pictures/grep2.png" width="400" />
+  <img src="/pictures/grep_p1.png " width="400" />
+  <img src="/pictures/grep_p2.png" width="400" />
 </p>
  
  Ссылка на 2 google colab: https://colab.research.google.com/drive/15i0WFX6j_YpOnnqYR5cP32Hf5CLBQCQ-?usp=sharing
