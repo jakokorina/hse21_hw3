@@ -2,4 +2,17 @@
 
  Ссылка на google colab: https://colab.research.google.com/drive/1F3Y9Elk7wNDeuKja-ipJ1O6sYnuqCJQL?usp=sharing
  
+ ### Часть 1
+ 
+Разные статистики из MultiQC:
+<p float="left">
+  <img src="/pictures/fastqc_sequence_counts_plot.png " width="400" />
+  <img src="/pictures/fastqc_sequence_counts_plot.png " width="400" />
+  <img src="/pictures/fastqc_per_base_sequence_quality_plot.png" width="400" />
+  <img src="/pictures/fastqc_per_sequence_gc_content_plot.png" width="400" /> 
+  <img src="/pictures/fastqc_per_sequence_quality_scores_plot.png" width="400" />
+  <img src="/pictures/fastqc_sequence_duplication_levels_plot.png" width="400" />
+</p>
+
+ 
  Ссылка на 2 google colab: https://colab.research.google.com/drive/15i0WFX6j_YpOnnqYR5cP32Hf5CLBQCQ-?usp=sharing
